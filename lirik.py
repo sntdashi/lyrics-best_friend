@@ -6,7 +6,7 @@ def jalanin_lirik():
         ("I say that I'm happy", 0.125),
         ("I say that I'm happy", 0.125),
         ("But no, no, no, no", 0.135),
-        ("No, no, no", 0.145),
+        ("No, no, noooooo", 0.145),
         ("Oh, I still wanna be your favorite boyyyyyyyyyyyyy", 0.093),
         ("I wanna be the one that makes your day", 0.089),
         ("The one you think about as you lie awake", 0.088),
