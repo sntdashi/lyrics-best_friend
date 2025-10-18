@@ -11,7 +11,7 @@ def jalanin_lirik():
         ("I wanna be the one that makes your day", 0.089),
         ("The one you think about as you lie awakeeee", 0.080),
         ("And I can't wait to be your number,", 0.091),
-        ("your number oneeeeee", 0.095),
+        ("your number oneeeeee", 0.094),
         ("I'll be your biggest fan and you'll be mine", 0.088),
         ("But I still wanna break your heart and make you cry", 0.088)
     ]
